@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IliaTsitovich/Books-market-on-API-Google-Books.git"
+    "url": "git+https://github.com/Sabarz1993/BookShopGoogleApi.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IliaTsitovich/Books-market-on-API-Google-Books/issues"
+    "url": "https://github.com/Sabarz1993/BookShopGoogleApi/issues"
   },
-  "homepage": "https://github.com/IliaTsitovich/Books-market-on-API-Google-Books#readme",
+  "homepage": "https://github.com/Sabarz1993/BookShopGoogleApi#readme",
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
